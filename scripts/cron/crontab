@@ -1,0 +1,10 @@
+===================================
+LOCAL
+===================================
+@daily /Users/soniafabre/Projects/workspace/git/react-ikea-alerts-app/scripts/cron/check_availability.sh
+
+===================================
+STAGING
+===================================
+@daily /Users/soniafabre/Projects/workspace/git/react-ikea-alerts-app/scripts/cron/check_availability.sh
+
